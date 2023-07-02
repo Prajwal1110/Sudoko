@@ -1,2 +1,2 @@
 # Sudoko
-### Here is Sudoko Gamee which is created using Javascript,CSS and HTML
+### Here is Sudoko Game which is created using Javascript,CSS and HTML
